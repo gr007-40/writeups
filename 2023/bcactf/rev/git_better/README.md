@@ -1,6 +1,7 @@
 # Git Better
 
 tags: #crypto #rev
+
 points: 200
 
 ## Description
@@ -26,7 +27,9 @@ Author: **skysky**
 ### Resources
 
 [challs.bcactf.com:31499](challs.bcactf.com:31499)
+
 [git_better.tar](./git_better.tar)
+
 [lost_block.txt](./lost_block.txt)
 
 
@@ -45,12 +48,19 @@ Now let's try to understand what the server does.
 We were given a tarball of the server:
 
 chall_tar/
+
 ├── base
+
 │   ├── block.ts
+
 │   ├── hashing.ts
+
 │   └── repository.ts
+
 └── server
+
     ├── index.html
+
     └── index.ts
 
 ### The server
