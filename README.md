@@ -1,3 +1,3 @@
 # writeups
 
-This repo will contain all the writeups to challenges I write now and in future.
+This repo will contain all CTF writeups I write now and in future.
